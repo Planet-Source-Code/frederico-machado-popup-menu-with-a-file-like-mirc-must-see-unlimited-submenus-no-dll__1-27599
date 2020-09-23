@@ -1,0 +1,11 @@
+frmMain = 66, 66, 445, 412, Z, 44, 44, 423, 390, C
+frmAbout = 0, 0, 0, 0, C, 22, 22, 401, 368, C
+mDeclares = 0, 0, 0, 0, C
+cPopupMenu = 0, 0, 0, 0, C
+cNCMetrics = 0, 0, 0, 0, C
+cStoreMenu = 0, 0, 0, 0, C
+MSubclass = 0, 0, 0, 0, C
+MTimer = 0, 0, 0, 0, C
+ISubclass = 0, 0, 0, 0, C
+GSubclass = 0, 0, 0, 0, C
+CTimer = 0, 0, 0, 0, C
